@@ -1,0 +1,1048 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="33" passed="33" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-19T02:46:57 IST" name="Default suite" finished-at="2023-08-19T04:03:58 IST" duration-ms="4621194">
+    <groups>
+    </groups>
+    <test started-at="2023-08-19T02:46:57 IST" name="Default test" finished-at="2023-08-19T04:03:58 IST" duration-ms="4621194">
+      <class name="testcases.ApprovalRuleTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T02:46:57 IST" name="setUp" finished-at="2023-08-19T02:47:10 IST" duration-ms="13363" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T02:47:10 IST" name="beforeMethod" finished-at="2023-08-19T02:47:11 IST" duration-ms="227" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.ValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="ValidationCheck()[pri:1, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T02:47:11 IST" name="ValidationCheck" finished-at="2023-08-19T02:48:43 IST" duration-ms="92253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidationCheck -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T02:48:43 IST" name="reportWrapUp" finished-at="2023-08-19T02:48:43 IST" duration-ms="10" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidationCheck status=SUCCESS method=ApprovalRuleTest.ValidationCheck()[pri:1, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.ValidationCheck()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T02:48:43 IST" name="beforeMethod" finished-at="2023-08-19T02:48:43 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.addApprovalRulePageWithExpenseModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addApprovalRulePageWithExpenseModule()[pri:2, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T02:48:43 IST" name="addApprovalRulePageWithExpenseModule" finished-at="2023-08-19T03:01:00 IST" duration-ms="736998" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addApprovalRulePageWithExpenseModule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:01:00 IST" name="reportWrapUp" finished-at="2023-08-19T03:01:00 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addApprovalRulePageWithExpenseModule status=SUCCESS method=ApprovalRuleTest.addApprovalRulePageWithExpenseModule()[pri:2, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.addApprovalRulePageWithExpenseModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:01:00 IST" name="beforeMethod" finished-at="2023-08-19T03:01:00 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughRuleNmae() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughRuleNmae()[pri:3, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:01:00 IST" name="validateSearchFunctionalitythroughRuleNmae" finished-at="2023-08-19T03:02:45 IST" duration-ms="105342" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughRuleNmae -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:02:45 IST" name="reportWrapUp" finished-at="2023-08-19T03:02:45 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughRuleNmae status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughRuleNmae()[pri:3, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughRuleNmae() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:02:45 IST" name="beforeMethod" finished-at="2023-08-19T03:02:45 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughModuleName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughModuleName()[pri:4, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:02:45 IST" name="validateSearchFunctionalitythroughModuleName" finished-at="2023-08-19T03:04:36 IST" duration-ms="111156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughModuleName -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:04:36 IST" name="reportWrapUp" finished-at="2023-08-19T03:04:36 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughModuleName status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughModuleName()[pri:4, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughModuleName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:04:36 IST" name="beforeMethod" finished-at="2023-08-19T03:04:36 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApprovalChainName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughApprovalChainName()[pri:5, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:04:36 IST" name="validateSearchFunctionalitythroughApprovalChainName" finished-at="2023-08-19T03:06:27 IST" duration-ms="110836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughApprovalChainName -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:06:27 IST" name="reportWrapUp" finished-at="2023-08-19T03:06:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughApprovalChainName status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughApprovalChainName()[pri:5, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApprovalChainName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:06:27 IST" name="beforeMethod" finished-at="2023-08-19T03:06:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughUserName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughUserName()[pri:6, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:06:27 IST" name="validateSearchFunctionalitythroughUserName" finished-at="2023-08-19T03:08:20 IST" duration-ms="113121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughUserName -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:08:20 IST" name="reportWrapUp" finished-at="2023-08-19T03:08:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughUserName status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughUserName()[pri:6, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughUserName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:08:20 IST" name="beforeMethod" finished-at="2023-08-19T03:08:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApproverName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughApproverName()[pri:7, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:08:20 IST" name="validateSearchFunctionalitythroughApproverName" finished-at="2023-08-19T03:10:10 IST" duration-ms="109722" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughApproverName -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:10:10 IST" name="reportWrapUp" finished-at="2023-08-19T03:10:10 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughApproverName status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughApproverName()[pri:7, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApproverName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method signature="validateSearchFunctionalitythroughActiveStatus()[pri:8, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:10:10 IST" name="validateSearchFunctionalitythroughActiveStatus" finished-at="2023-08-19T03:11:52 IST" duration-ms="102286" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughActiveStatus -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:10:10 IST" name="beforeMethod" finished-at="2023-08-19T03:10:10 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughActiveStatus() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:11:52 IST" name="reportWrapUp" finished-at="2023-08-19T03:11:52 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughActiveStatus status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughActiveStatus()[pri:8, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughActiveStatus() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method signature="ValidateSarchfunctionalityThroughINActiveStatus()[pri:9, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:11:52 IST" name="ValidateSarchfunctionalityThroughINActiveStatus" finished-at="2023-08-19T03:15:20 IST" duration-ms="207587" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidateSarchfunctionalityThroughINActiveStatus -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:11:52 IST" name="beforeMethod" finished-at="2023-08-19T03:11:52 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.ValidateSarchfunctionalityThroughINActiveStatus()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:15:20 IST" name="reportWrapUp" finished-at="2023-08-19T03:15:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ValidateSarchfunctionalityThroughINActiveStatus status=SUCCESS method=ApprovalRuleTest.ValidateSarchfunctionalityThroughINActiveStatus()[pri:9, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.ValidateSarchfunctionalityThroughINActiveStatus()]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:15:20 IST" name="beforeMethod" finished-at="2023-08-19T03:15:20 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateUpdateFunctionalityOfApprovalRulePage() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateUpdateFunctionalityOfApprovalRulePage()[pri:10, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:15:20 IST" name="validateUpdateFunctionalityOfApprovalRulePage" finished-at="2023-08-19T03:17:00 IST" duration-ms="100210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUpdateFunctionalityOfApprovalRulePage -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:17:00 IST" name="reportWrapUp" finished-at="2023-08-19T03:17:00 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateUpdateFunctionalityOfApprovalRulePage status=SUCCESS method=ApprovalRuleTest.validateUpdateFunctionalityOfApprovalRulePage()[pri:10, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateUpdateFunctionalityOfApprovalRulePage() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:17:00 IST" name="beforeMethod" finished-at="2023-08-19T03:17:00 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateDeleteFunctionalityOfApprovalRulePage() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateDeleteFunctionalityOfApprovalRulePage()[pri:11, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:17:00 IST" name="validateDeleteFunctionalityOfApprovalRulePage" finished-at="2023-08-19T03:18:40 IST" duration-ms="99796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDeleteFunctionalityOfApprovalRulePage -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:18:40 IST" name="reportWrapUp" finished-at="2023-08-19T03:18:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateDeleteFunctionalityOfApprovalRulePage status=SUCCESS method=ApprovalRuleTest.validateDeleteFunctionalityOfApprovalRulePage()[pri:11, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateDeleteFunctionalityOfApprovalRulePage() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:18:40 IST" name="beforeMethod" finished-at="2023-08-19T03:18:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.addApprovalRulePageWithLeaveModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addApprovalRulePageWithLeaveModule()[pri:12, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:18:40 IST" name="addApprovalRulePageWithLeaveModule" finished-at="2023-08-19T03:21:15 IST" duration-ms="154999" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addApprovalRulePageWithLeaveModule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:21:15 IST" name="reportWrapUp" finished-at="2023-08-19T03:21:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addApprovalRulePageWithLeaveModule status=SUCCESS method=ApprovalRuleTest.addApprovalRulePageWithLeaveModule()[pri:12, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.addApprovalRulePageWithLeaveModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:21:15 IST" name="beforeMethod" finished-at="2023-08-19T03:21:15 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughLeaveName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughLeaveName()[pri:13, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:21:15 IST" name="validateSearchFunctionalitythroughLeaveName" finished-at="2023-08-19T03:22:58 IST" duration-ms="103409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughLeaveName -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:22:58 IST" name="reportWrapUp" finished-at="2023-08-19T03:22:58 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughLeaveName status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughLeaveName()[pri:13, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughLeaveName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:22:58 IST" name="beforeMethod" finished-at="2023-08-19T03:22:58 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApprovalChainNameForLeaveRuleName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughApprovalChainNameForLeaveRuleName()[pri:14, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:22:58 IST" name="validateSearchFunctionalitythroughApprovalChainNameForLeaveRuleName" finished-at="2023-08-19T03:24:49 IST" duration-ms="110244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughApprovalChainNameForLeaveRuleName -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:24:49 IST" name="reportWrapUp" finished-at="2023-08-19T03:24:49 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughApprovalChainNameForLeaveRuleName status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughApprovalChainNameForLeaveRuleName()[pri:14, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApprovalChainNameForLeaveRuleName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:24:49 IST" name="beforeMethod" finished-at="2023-08-19T03:24:49 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughUserNameForLeaveRuleName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughUserNameForLeaveRuleName()[pri:15, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:24:49 IST" name="validateSearchFunctionalitythroughUserNameForLeaveRuleName" finished-at="2023-08-19T03:26:57 IST" duration-ms="128761" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughUserNameForLeaveRuleName -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:26:57 IST" name="reportWrapUp" finished-at="2023-08-19T03:26:57 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughUserNameForLeaveRuleName status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughUserNameForLeaveRuleName()[pri:15, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughUserNameForLeaveRuleName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:26:57 IST" name="beforeMethod" finished-at="2023-08-19T03:26:57 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApproverNameforLeaveRuleName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughApproverNameforLeaveRuleName()[pri:16, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:26:57 IST" name="validateSearchFunctionalitythroughApproverNameforLeaveRuleName" finished-at="2023-08-19T03:28:37 IST" duration-ms="99867" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughApproverNameforLeaveRuleName -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:28:37 IST" name="reportWrapUp" finished-at="2023-08-19T03:28:37 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughApproverNameforLeaveRuleName status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughApproverNameforLeaveRuleName()[pri:16, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApproverNameforLeaveRuleName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:28:37 IST" name="beforeMethod" finished-at="2023-08-19T03:28:37 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughActiveStatusForLeaveRuleName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughActiveStatusForLeaveRuleName()[pri:17, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:28:37 IST" name="validateSearchFunctionalitythroughActiveStatusForLeaveRuleName" finished-at="2023-08-19T03:30:16 IST" duration-ms="98848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughActiveStatusForLeaveRuleName -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:30:16 IST" name="reportWrapUp" finished-at="2023-08-19T03:30:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughActiveStatusForLeaveRuleName status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughActiveStatusForLeaveRuleName()[pri:17, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughActiveStatusForLeaveRuleName() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method signature="validateDeleteFunctionalityOfApprovalRulePageForLeaveModule()[pri:18, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:30:16 IST" name="validateDeleteFunctionalityOfApprovalRulePageForLeaveModule" finished-at="2023-08-19T03:32:09 IST" duration-ms="112476" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDeleteFunctionalityOfApprovalRulePageForLeaveModule -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:30:16 IST" name="beforeMethod" finished-at="2023-08-19T03:30:16 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateDeleteFunctionalityOfApprovalRulePageForLeaveModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:32:09 IST" name="reportWrapUp" finished-at="2023-08-19T03:32:09 IST" duration-ms="4" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateDeleteFunctionalityOfApprovalRulePageForLeaveModule status=SUCCESS method=ApprovalRuleTest.validateDeleteFunctionalityOfApprovalRulePageForLeaveModule()[pri:18, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateDeleteFunctionalityOfApprovalRulePageForLeaveModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:32:09 IST" name="beforeMethod" finished-at="2023-08-19T03:32:09 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.addApprovalRulePageWithTimeSheetModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addApprovalRulePageWithTimeSheetModule()[pri:19, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:32:09 IST" name="addApprovalRulePageWithTimeSheetModule" finished-at="2023-08-19T03:34:26 IST" duration-ms="137800" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addApprovalRulePageWithTimeSheetModule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:34:27 IST" name="reportWrapUp" finished-at="2023-08-19T03:34:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addApprovalRulePageWithTimeSheetModule status=SUCCESS method=ApprovalRuleTest.addApprovalRulePageWithTimeSheetModule()[pri:19, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.addApprovalRulePageWithTimeSheetModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:34:27 IST" name="beforeMethod" finished-at="2023-08-19T03:34:27 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughTimesheetModuleForTimeSheetRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughTimesheetModuleForTimeSheetRule()[pri:20, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:34:27 IST" name="validateSearchFunctionalitythroughTimesheetModuleForTimeSheetRule" finished-at="2023-08-19T03:36:38 IST" duration-ms="131961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughTimesheetModuleForTimeSheetRule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:36:38 IST" name="reportWrapUp" finished-at="2023-08-19T03:36:38 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughTimesheetModuleForTimeSheetRule status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughTimesheetModuleForTimeSheetRule()[pri:20, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughTimesheetModuleForTimeSheetRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:36:38 IST" name="beforeMethod" finished-at="2023-08-19T03:36:38 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApprovalChainNameForTimeSheetRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughApprovalChainNameForTimeSheetRule()[pri:21, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:36:38 IST" name="validateSearchFunctionalitythroughApprovalChainNameForTimeSheetRule" finished-at="2023-08-19T03:38:40 IST" duration-ms="121646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughApprovalChainNameForTimeSheetRule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:38:40 IST" name="reportWrapUp" finished-at="2023-08-19T03:38:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughApprovalChainNameForTimeSheetRule status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughApprovalChainNameForTimeSheetRule()[pri:21, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApprovalChainNameForTimeSheetRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:38:40 IST" name="beforeMethod" finished-at="2023-08-19T03:38:40 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughUserNameForTimeSheetRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughUserNameForTimeSheetRule()[pri:22, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:38:40 IST" name="validateSearchFunctionalitythroughUserNameForTimeSheetRule" finished-at="2023-08-19T03:40:15 IST" duration-ms="94846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughUserNameForTimeSheetRule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:40:15 IST" name="reportWrapUp" finished-at="2023-08-19T03:40:15 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughUserNameForTimeSheetRule status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughUserNameForTimeSheetRule()[pri:22, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughUserNameForTimeSheetRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:40:15 IST" name="beforeMethod" finished-at="2023-08-19T03:40:15 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApproverNameForTimeSheetRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughApproverNameForTimeSheetRule()[pri:23, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:40:15 IST" name="validateSearchFunctionalitythroughApproverNameForTimeSheetRule" finished-at="2023-08-19T03:42:01 IST" duration-ms="105804" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughApproverNameForTimeSheetRule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:42:01 IST" name="reportWrapUp" finished-at="2023-08-19T03:42:01 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughApproverNameForTimeSheetRule status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughApproverNameForTimeSheetRule()[pri:23, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApproverNameForTimeSheetRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:42:01 IST" name="beforeMethod" finished-at="2023-08-19T03:42:01 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughActiveStatusForTimeSheetRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughActiveStatusForTimeSheetRule()[pri:24, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:42:01 IST" name="validateSearchFunctionalitythroughActiveStatusForTimeSheetRule" finished-at="2023-08-19T03:44:18 IST" duration-ms="137084" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughActiveStatusForTimeSheetRule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:44:18 IST" name="reportWrapUp" finished-at="2023-08-19T03:44:18 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughActiveStatusForTimeSheetRule status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughActiveStatusForTimeSheetRule()[pri:24, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughActiveStatusForTimeSheetRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:44:18 IST" name="beforeMethod" finished-at="2023-08-19T03:44:18 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateDeleteFunctionalityOfApprovalRulePageForTimeSheetModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateDeleteFunctionalityOfApprovalRulePageForTimeSheetModule()[pri:25, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:44:18 IST" name="validateDeleteFunctionalityOfApprovalRulePageForTimeSheetModule" finished-at="2023-08-19T03:46:40 IST" duration-ms="142322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDeleteFunctionalityOfApprovalRulePageForTimeSheetModule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:46:40 IST" name="reportWrapUp" finished-at="2023-08-19T03:46:40 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateDeleteFunctionalityOfApprovalRulePageForTimeSheetModule status=SUCCESS method=ApprovalRuleTest.validateDeleteFunctionalityOfApprovalRulePageForTimeSheetModule()[pri:25, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateDeleteFunctionalityOfApprovalRulePageForTimeSheetModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:46:40 IST" name="beforeMethod" finished-at="2023-08-19T03:46:40 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.addApprovalRulePageWithAttendanceModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addApprovalRulePageWithAttendanceModule()[pri:26, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:46:40 IST" name="addApprovalRulePageWithAttendanceModule" finished-at="2023-08-19T03:49:06 IST" duration-ms="145873" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addApprovalRulePageWithAttendanceModule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:49:06 IST" name="reportWrapUp" finished-at="2023-08-19T03:49:06 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addApprovalRulePageWithAttendanceModule status=SUCCESS method=ApprovalRuleTest.addApprovalRulePageWithAttendanceModule()[pri:26, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.addApprovalRulePageWithAttendanceModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:49:06 IST" name="beforeMethod" finished-at="2023-08-19T03:49:06 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughAttendanceModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughAttendanceModule()[pri:27, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:49:06 IST" name="validateSearchFunctionalitythroughAttendanceModule" finished-at="2023-08-19T03:51:12 IST" duration-ms="126138" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughAttendanceModule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:51:12 IST" name="reportWrapUp" finished-at="2023-08-19T03:51:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughAttendanceModule status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughAttendanceModule()[pri:27, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughAttendanceModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:51:12 IST" name="beforeMethod" finished-at="2023-08-19T03:51:12 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApprovalChainNameForAttendanceRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughApprovalChainNameForAttendanceRule()[pri:28, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:51:12 IST" name="validateSearchFunctionalitythroughApprovalChainNameForAttendanceRule" finished-at="2023-08-19T03:53:10 IST" duration-ms="117512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughApprovalChainNameForAttendanceRule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:53:10 IST" name="reportWrapUp" finished-at="2023-08-19T03:53:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughApprovalChainNameForAttendanceRule status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughApprovalChainNameForAttendanceRule()[pri:28, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApprovalChainNameForAttendanceRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:53:10 IST" name="beforeMethod" finished-at="2023-08-19T03:53:10 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughUserNameForAttendanceRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughUserNameForAttendanceRule()[pri:29, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:53:10 IST" name="validateSearchFunctionalitythroughUserNameForAttendanceRule" finished-at="2023-08-19T03:55:16 IST" duration-ms="126513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughUserNameForAttendanceRule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:55:16 IST" name="reportWrapUp" finished-at="2023-08-19T03:55:16 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughUserNameForAttendanceRule status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughUserNameForAttendanceRule()[pri:29, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughUserNameForAttendanceRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:55:16 IST" name="beforeMethod" finished-at="2023-08-19T03:55:16 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApproverNameForAttendanceRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateSearchFunctionalitythroughApproverNameForAttendanceRule()[pri:30, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:55:16 IST" name="validateSearchFunctionalitythroughApproverNameForAttendanceRule" finished-at="2023-08-19T03:57:45 IST" duration-ms="149114" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughApproverNameForAttendanceRule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:57:45 IST" name="reportWrapUp" finished-at="2023-08-19T03:57:45 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughApproverNameForAttendanceRule status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughApproverNameForAttendanceRule()[pri:30, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughApproverNameForAttendanceRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method signature="validateSearchFunctionalitythroughActiveStatusForAttendanceRule()[pri:31, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:57:45 IST" name="validateSearchFunctionalitythroughActiveStatusForAttendanceRule" finished-at="2023-08-19T03:59:27 IST" duration-ms="101825" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateSearchFunctionalitythroughActiveStatusForAttendanceRule -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:57:45 IST" name="beforeMethod" finished-at="2023-08-19T03:57:45 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughActiveStatusForAttendanceRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:59:27 IST" name="reportWrapUp" finished-at="2023-08-19T03:59:27 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateSearchFunctionalitythroughActiveStatusForAttendanceRule status=SUCCESS method=ApprovalRuleTest.validateSearchFunctionalitythroughActiveStatusForAttendanceRule()[pri:31, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateSearchFunctionalitythroughActiveStatusForAttendanceRule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:59:27 IST" name="beforeMethod" finished-at="2023-08-19T03:59:27 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateDeleteFunctionalityOfApprovalRulePageForAttendanceModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="validateDeleteFunctionalityOfApprovalRulePageForAttendanceModule()[pri:32, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T03:59:27 IST" name="validateDeleteFunctionalityOfApprovalRulePageForAttendanceModule" finished-at="2023-08-19T04:01:26 IST" duration-ms="118692" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateDeleteFunctionalityOfApprovalRulePageForAttendanceModule -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T04:01:26 IST" name="reportWrapUp" finished-at="2023-08-19T04:01:26 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateDeleteFunctionalityOfApprovalRulePageForAttendanceModule status=SUCCESS method=ApprovalRuleTest.validateDeleteFunctionalityOfApprovalRulePageForAttendanceModule()[pri:32, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.validateDeleteFunctionalityOfApprovalRulePageForAttendanceModule() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T04:01:26 IST" name="beforeMethod" finished-at="2023-08-19T04:01:26 IST" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.addApprovalRulePageWithLimitedDurationAndUseSequence() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="addApprovalRulePageWithLimitedDurationAndUseSequence()[pri:33, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T04:01:26 IST" name="addApprovalRulePageWithLimitedDurationAndUseSequence" finished-at="2023-08-19T04:03:56 IST" duration-ms="149986" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addApprovalRulePageWithLimitedDurationAndUseSequence -->
+        <test-method is-config="true" signature="reportWrapUp(org.testng.ITestResult,java.lang.reflect.Method)[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T04:03:56 IST" name="reportWrapUp" finished-at="2023-08-19T04:03:56 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=addApprovalRulePageWithLimitedDurationAndUseSequence status=SUCCESS method=ApprovalRuleTest.addApprovalRulePageWithLimitedDurationAndUseSequence()[pri:33, instance:testcases.ApprovalRuleTest@31c88ec8] output={null}]]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[public void testcases.ApprovalRuleTest.addApprovalRulePageWithLimitedDurationAndUseSequence() throws java.text.ParseException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- reportWrapUp -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T04:03:56 IST" name="closeBrowser" finished-at="2023-08-19T04:03:58 IST" duration-ms="2250" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="close()[pri:0, instance:testcases.ApprovalRuleTest@31c88ec8]" started-at="2023-08-19T04:03:58 IST" name="close" finished-at="2023-08-19T04:04:00 IST" duration-ms="1949" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testcases.ApprovalRuleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
